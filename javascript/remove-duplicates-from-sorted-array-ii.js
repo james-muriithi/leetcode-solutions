@@ -1,7 +1,7 @@
 /**
  * https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
  *  time complexity O(n)
- *  space complexity O(n)
+ *  space complexity O(1)
  * @param {number[]} nums
  * @return {number}
  */
